@@ -1,0 +1,235 @@
+{
+  "Header": {
+    "MessageGuid": "a7bc6c7a-0a4d-4eeb-9bfa-36528c64f298",
+    "TimeStampUtc": "2017-08-14T13:41:31.739Z",
+    "Retry": 0,
+    "MessageFixtureOrder": 195756917
+  },
+  "MarketSet": {
+    "FixtureId": 4783110,
+    "Markets": [
+      {
+        "Id": 100031614,
+        "Sequence": 0,
+        "TradingStatus": "Suspended",
+        "Name": "Match Result",
+        "ExpiryUtc": "2017-08-14T13:30:00.000Z",
+        "MarketType": {
+          "handicap": false,
+          "Id": 2,
+          "Name": "Match Result",
+          "IsHandicap": false
+        },
+        "InPlay": true,
+        "Selections": [
+          {
+            "Id": 300062976,
+            "TradingStatus": "Trading",
+            "Name": "Sultanbeyli Belediyespor",
+            "CompetitorId": 829188,
+            "Outcome": {
+              "Id": 1,
+              "Name": "Home"
+            },
+            "Numerator": 42,
+            "Denominator": 25,
+            "Decimal": 2.68
+          },
+          {
+            "Id": 300062977,
+            "TradingStatus": "Trading",
+            "Name": "Draw",
+            "Outcome": {
+              "Id": 2,
+              "Name": "Draw"
+            },
+            "Numerator": 7,
+            "Denominator": 4,
+            "Decimal": 2.75
+          },
+          {
+            "Id": 300062978,
+            "TradingStatus": "Trading",
+            "Name": "USM Alger",
+            "CompetitorId": 147983,
+            "Outcome": {
+              "Id": 3,
+              "Name": "Away"
+            },
+            "Numerator": 42,
+            "Denominator": 25,
+            "Decimal": 2.68
+          }
+        ]
+      },
+      {
+        "Id": 100031615,
+        "Sequence": 0,
+        "TradingStatus": "Suspended",
+        "Name": "Asian Handicap 0",
+        "ExpiryUtc": "2017-08-14T13:30:00.000Z",
+        "Handicap": 0.00,
+        "MarketType": {
+          "handicap": true,
+          "Id": 82,
+          "Name": "Asian Handicap",
+          "IsHandicap": true
+        },
+        "InPlay": true,
+        "Selections": [
+          {
+            "Id": 300062979,
+            "TradingStatus": "Trading",
+            "Name": "Sultanbeyli Belediyespor",
+            "CompetitorId": 829188,
+            "Outcome": {
+              "Id": 1,
+              "Name": "Home"
+            },
+            "Numerator": 91,
+            "Denominator": 100,
+            "Decimal": 1.91
+          },
+          {
+            "Id": 300062980,
+            "TradingStatus": "Trading",
+            "Name": "USM Alger",
+            "CompetitorId": 147983,
+            "Outcome": {
+              "Id": 3,
+              "Name": "Away"
+            },
+            "Numerator": 47,
+            "Denominator": 50,
+            "Decimal": 1.94
+          }
+        ]
+      },
+      {
+        "Id": 100031616,
+        "Sequence": 0,
+        "TradingStatus": "Suspended",
+        "Name": "Total Goals Over / Under 2.50",
+        "ExpiryUtc": "2017-08-14T13:30:00.000Z",
+        "Handicap": 2.50,
+        "MarketType": {
+          "handicap": true,
+          "Id": 259,
+          "Name": "Over/Under",
+          "IsHandicap": true
+        },
+        "InPlay": true,
+        "Selections": [
+          {
+            "Id": 300062981,
+            "TradingStatus": "Trading",
+            "Name": "Over",
+            "Outcome": {
+              "Id": 30,
+              "Name": "Over"
+            },
+            "Numerator": 109,
+            "Denominator": 100,
+            "Decimal": 2.09
+          },
+          {
+            "Id": 300062982,
+            "TradingStatus": "Trading",
+            "Name": "Under",
+            "Outcome": {
+              "Id": 31,
+              "Name": "Under"
+            },
+            "Numerator": 39,
+            "Denominator": 50,
+            "Decimal": 1.78
+          }
+        ]
+      },
+      {
+        "Id": 100031617,
+        "Sequence": 0,
+        "TradingStatus": "Suspended",
+        "Name": "Half Time Total Goals Over / Under 0.50",
+        "ExpiryUtc": "2017-08-14T13:30:00.000Z",
+        "Handicap": 0.50,
+        "MarketType": {
+          "handicap": true,
+          "Id": 7076,
+          "Name": "Half-time Totals Over/Under",
+          "IsHandicap": true
+        },
+        "InPlay": true,
+        "Selections": [
+          {
+            "Id": 300062983,
+            "TradingStatus": "Trading",
+            "Name": "Over",
+            "Outcome": {
+              "Id": 30,
+              "Name": "Over"
+            },
+            "Numerator": 11,
+            "Denominator": 25,
+            "Decimal": 1.44
+          },
+          {
+            "Id": 300062984,
+            "TradingStatus": "Trading",
+            "Name": "Under",
+            "Outcome": {
+              "Id": 31,
+              "Name": "Under"
+            },
+            "Numerator": 189,
+            "Denominator": 100,
+            "Decimal": 2.89
+          }
+        ]
+      },
+      {
+        "Id": 100031618,
+        "Sequence": 0,
+        "TradingStatus": "Suspended",
+        "Name": "Half Time Asian Handicap +0.50",
+        "ExpiryUtc": "2017-08-14T13:30:00.000Z",
+        "Handicap": 0.50,
+        "MarketType": {
+          "handicap": true,
+          "Id": 7871,
+          "Name": "Half-time Asian Handicap",
+          "IsHandicap": true
+        },
+        "InPlay": true,
+        "Selections": [
+          {
+            "Id": 300062985,
+            "TradingStatus": "Trading",
+            "Name": "Sultanbeyli Belediyespor",
+            "CompetitorId": 829188,
+            "Outcome": {
+              "Id": 1,
+              "Name": "Home"
+            },
+            "Numerator": 117,
+            "Denominator": 50,
+            "Decimal": 3.34
+          },
+          {
+            "Id": 300062986,
+            "TradingStatus": "Trading",
+            "Name": "USM Alger",
+            "CompetitorId": 147983,
+            "Outcome": {
+              "Id": 3,
+              "Name": "Away"
+            },
+            "Numerator": 7,
+            "Denominator": 20,
+            "Decimal": 1.35
+          }
+        ]
+      }
+    ]
+  }
+}
